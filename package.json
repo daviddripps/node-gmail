@@ -1,0 +1,11 @@
+{
+  "name": "gmail",
+  "description": "a utility for sending email via GMail",
+  "version": "0.0.1",
+  "author": "David Dripps <david.dripps@gmail.com>",
+  "keywords": ["gmail", "xoauth"],
+  "main" : "lib/gmail-client.js",
+  "directories" : { "lib" : "./lib" },
+  "dependencies": { "oauth": "0.9.0" },
+  "repository" : {"type": "git" , "url": "http://github.com/daviddripps/node-gmail.git" }
+}
